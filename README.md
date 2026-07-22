@@ -144,20 +144,19 @@ GROQ_API_KEY="your_groq_api_key"
 
 ## 📸 Screenshots
 
-You can add screenshots of the application here.
-
 ### Home Page
 
-```
+
 ![Home Page](images/home.png)
-```
+
+---
 
 ### Chat Interface
 
-```
+
 ![Chat Interface](images/chat1.png)
 ![Chat Interface](images/chat2.png)
-```
+
 
 ---
 
