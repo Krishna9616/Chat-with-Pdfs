@@ -149,13 +149,14 @@ You can add screenshots of the application here.
 ### Home Page
 
 ```
-(Add screenshot here)
+![Home Page](images/home.png)
 ```
 
 ### Chat Interface
 
 ```
-(Add screenshot here)
+![Chat Interface](images/chat1.png)
+![Chat Interface](images/chat2.png)
 ```
 
 ---
@@ -174,51 +175,6 @@ You can add screenshots of the application here.
 
 ---
 
-## 📈 Future Improvements
-
-- ✅ Chat history
-- ✅ Multiple document collections
-- ✅ Conversation memory
-- ✅ Source citations
-- ✅ Authentication
-- ✅ PDF highlighting
-- ✅ Support for DOCX and TXT files
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a feature branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch.
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Krishna**
@@ -228,5 +184,3 @@ This project is licensed under the MIT License.
 - Live Demo: https://chat-with-pdfsss.streamlit.app
 
 ---
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
